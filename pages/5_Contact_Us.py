@@ -13,3 +13,5 @@ def open_support_ticket():
     webbrowser.open(email_link)
 
 st.button("Contact us!", on_click=open_support_ticket)
+
+'### or you can send an e-mail to : oktay.sadak@outlook.com'
