@@ -1,8 +1,8 @@
 ## About the dataset
 
-Dataset can be found in the repository.
-Dataset can be downloaded from the app. 
-https://fah-bodyfatestimator.streamlit.app/
+- Dataset can be found in the repository.
+- Dataset can be downloaded from the app. 
+- https://fah-bodyfatestimator.streamlit.app/
 
 ## Attributes in the dataset
 
