@@ -95,3 +95,6 @@ Wilmore, Jack (1976). Athletic Training and Physical Fitness: Physiological Prin
 # About The Streamlit APP
 
 https://fah-bodyfatestimator.streamlit.app/
+
+# Trello Board
+https://trello.com/invite/b/uUwhMigL/ATTIf5da9ed9a25d8f69aa62d11eea1d98c9D7ED8CB8/fit-hot-body-fat-estimator-app
