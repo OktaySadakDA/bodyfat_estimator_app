@@ -9,7 +9,7 @@ st.sidebar.success('Please select a page')
 
 '#### Bodyfat dataset'
 
-my_csv = Path ('https://raw.githubusercontent.com/OktaySadakDA/bodyfat_estimator_app/master/bodyfat.csv')
+my_csv = Path (https://raw.githubusercontent.com/OktaySadakDA/bodyfat_estimator_app/master/bodyfat.csv)
 df = pd.read_csv(my_csv.resolve(), sep=',')
 st.dataframe(df,width=1250)
 
