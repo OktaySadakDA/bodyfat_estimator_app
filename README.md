@@ -4,7 +4,7 @@ Dataset can be downloaded from the app.
 
 ## Attributes in the dataset
 
-- Density determined from underwater weighing
+- Body Density
 - Percent body fat from Siri's (1956) equation
 - Age (years)
 - Weight (lbs)
